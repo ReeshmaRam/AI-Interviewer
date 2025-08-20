@@ -1,0 +1,9 @@
+autogen-agentchat
+autogen-core
+autogen-ext
+dotenv
+openai
+tiktoken
+autogen-ext[ollama]
+pydantic
+-e .
